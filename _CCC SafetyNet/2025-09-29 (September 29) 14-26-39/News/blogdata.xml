@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss">
+<channel>
+<title>blog</title>
+<description></description>
+<link>https://jp-pwr.github.io/News</link>
+<language></language>
+<<<<<<< HEAD
+<pubDate>Mon, 29 Sep 2025 08:22:57 GMT</pubDate>
+<lastBuildDate>Mon, 29 Sep 2025 08:22:57 GMT</lastBuildDate>
+=======
+<pubDate>Fri, 28 Feb 2025 09:18:27 GMT</pubDate>
+<lastBuildDate>Fri, 28 Feb 2025 09:18:27 GMT</lastBuildDate>
+>>>>>>> aac962dc1e02d45eeee05c05ad2f9d963c9f4428
+<item>
+<title><![CDATA[Office hours]]></title>
+<link>https://jp-pwr.github.io/News/Entries/2024/2/office-hours.html</link>
+<guid isPermaLink="false">BD8EA8EE87954572A9CF56DA482F40AF</guid>
+<pubDate>Mon, 26 Feb 2024 11:24:02 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[Homework Links]]></title>
+<link>https://jp-pwr.github.io/News/Entries/2023/9/homework-links.html</link>
+<guid isPermaLink="false">15B4637CD0BA4AA78C120D143DBA8E74</guid>
+<pubDate>Wed, 27 Sep 2023 06:36:38 GMT</pubDate>
+</item>
+<item>
+<title><![CDATA[About Absence (FAQ)]]></title>
+<link>https://jp-pwr.github.io/News/Entries/2022/9/about-absence-faq.html</link>
+<guid isPermaLink="false">A8B28185EEFF489E96A012971180EAB8</guid>
+<pubDate>Tue, 27 Sep 2022 08:03:25 GMT</pubDate>
+</item>
+</channel>
+</rss>
